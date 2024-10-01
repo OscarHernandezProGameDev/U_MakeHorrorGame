@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rock
+  m_Name: brck59l
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 67cff76a3c34c3f4cbfef74582fc1870, type: 3}
+        m_Texture: {fileID: 2800000, guid: ad7a9dafdf7d2d7af8453fb1c008cfa5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -42,11 +42,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
         m_Texture: {fileID: 0}
-        m_Scale: {x: 10, y: 10}
+        m_Scale: {x: 5, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: a1cf4e67b15843b4794908c865129b93, type: 3}
-        m_Scale: {x: 10, y: 10}
+        m_Texture: {fileID: 2800000, guid: c1bfb7634ff75bda1b5d147cc9d2ffa9, type: 3}
+        m_Scale: {x: 5, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
@@ -67,7 +67,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.267
+    - _Glossiness: 0.098
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
